@@ -1,3 +1,4 @@
 cabecera 
+linkregistro
 cuerpo
 pie de página
