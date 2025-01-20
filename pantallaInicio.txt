@@ -1,0 +1,3 @@
+cabecera 
+cuerpo
+pie de página
