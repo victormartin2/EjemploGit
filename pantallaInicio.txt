@@ -2,6 +2,6 @@ cabecera
 barraNav
 LinkLogin
 linkregistro
-cuerpo
 recetas
+cuerpo
 pie de página
