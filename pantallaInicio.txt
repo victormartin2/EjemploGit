@@ -1,3 +1,6 @@
 cabecera 
+barraNav
+LinkLogin
+linkregistro
 cuerpo
 pie de página
