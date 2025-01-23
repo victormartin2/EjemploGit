@@ -3,4 +3,5 @@ barraNav
 LinkLogin
 linkregistro
 cuerpo
+recetas
 pie de página
