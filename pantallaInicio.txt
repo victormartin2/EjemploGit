@@ -2,5 +2,6 @@ cabecera
 barraNav
 LinkLogin
 linkregistro
+Filtros
 cuerpo
 pie de página
